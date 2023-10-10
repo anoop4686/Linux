@@ -1,23 +1,14 @@
-!# /usr/bin/sh
+#!/usr/bin/sh
 
-echo Hello $USER
-echo "Do you want to Continue with current user $USER (yes or no)" 
+echo  "Do you want to continue with current $USER username : " 
 read input
 
-
-if [ $input == "yes" ]
+if [ $input == yes ]
 then
-        echo "Welcome $USER"
+    echo "script run from here"
+else
+    echo "Enter another user : "
+    read user
+    sudo su - $user
+fi 
 
-elif [$input == "no" ]  
-then
-    echo "Enter User"
-
-else 
-    echo "You have entered incorrect options"
-fi
-
-update_system() {
-    sudo apt update -y
-    echo "sussess"
-}
