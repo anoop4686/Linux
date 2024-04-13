@@ -1,0 +1,34 @@
+1. Drop Outside all packet to enp2s0 interface.
+	iptables -I INPUT -j REJECT
+
+2. Allow  icmp ping packet for everyone.
+	iptables -I INPUT  -p icmp  -j ACCEPT
+	
+
+3. Allow 80 and 443 port for everyone.
+    iptables -I INPUT -p tcp --dport 80  -j ACCEPT
+    iptables -I INPUT -p tcp --dport 443 -j ACCEPT
+
+  or
+  
+    iptables -I INPUT -p tcp -m multiport --dports 80,443 -j ACCEPT
+
+4. Allow IP based allow SSH port.
+	iptables -I INPUT  -p tcp --dport 8080  -s 192.168.2.78 -j DROP
+
+
+
+sudo iptables -L INPUT -v &&  sudo iptables -L FORWARD -v
+iptables-restore  < /etc/iptables/rules.v4
+sudo iptables -L --line-number
+
+
+
+Mac-Based Try
+
+1. iptables -I INPUT -i enp2s0 -p tcp --dport 22   -m mac --mac-source 54:13:79:8a:c4:ab -j ACCEPT
+
+2. iptables -I INPUT -i enp2s0 -p tcp --dport 22  -s 114.143.171.6 -m mac --mac-source 54:13:79:8a:c4:ab -j ACCEPT
+
+
+

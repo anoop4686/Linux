@@ -1,0 +1,63 @@
+Host  IP,,Component Name,,Asset Name ,,Asset Tracker 
+,,,,,,
+114.143.171.6,,ISP,,Tata ISP,,
+114.143.171.6,,ISP,,Tata ISP,,
+,,,,,,
+192.168.1.1,,,,CPU-C721CZ2,,101813
+,,,,,,
+,,,,,,
+192.168.1.160,,WiFi Network,,LINKSYS ROUTER Allerin,,#79974
+192.168.1.161,,WiFi Network ,,LINKSYS ROUTER Allerin ,,#79975
+192.168.1.162,,WiFi Network ,,LINKSYS ROUTER Allerin ,,#79976
+192.168.1.163,,WiFi Network ,,Allerin UniFi,,#111357
+192.168.1.164,,WiFi Network ,,Allerin One,,#49521
+192.168.1.180,,POE Switch ,,Uniview - NVR - POE Switch - 26 Port,,#111233
+192.168.1.181,,Surveillance systems,,Surveillance IP camera – C1 - Behind the HEXAGON cabin. Installed in the outside balcony,,#83507
+192.168.1.182,,Surveillance systems,,Surveillance IP camera – C2- Behind the Executive cabin 3. Installed in the outside balcony.,,#83511
+192.168.1.183,,Surveillance systems,,Surveillance IP camera – C3 - Executive room 3.,,#111252
+192.168.1.184,,Surveillance systems,,Surveillance IP camera – C4-  Executive room 2.,,#111254
+192.168.1.185,,Surveillance systems,,Surveillance IP camera – C5-  Executive cabin 1,,#111326
+192.168.1.186,,Surveillance systems,,Surveillance IP camera – C6-  Hexagon Cabin,,#111255
+192.168.1.187,,Surveillance systems,,Surveillance IP camera – C8- Near the Hexagon Cabin Door.,,#111244
+192.168.1.188,,Surveillance systems,,Surveillance IP camera – C9- Camera Installed near the Executive Cabin Door.,,#111243
+192.168.1.189,,Surveillance systems,,Surveillance IP camera – C10- Phone Booth cabin.,,#111258
+192.168.1.190,,Surveillance systems,,Surveillance IP camera – C11- Server Room,,#83517
+192.168.1.191,,Surveillance systems,,Surveillance IP camera – C12- Server Room,,#83513
+192.168.1.192,,Surveillance systems,,Surveillance IP camera – C13- Outside near elevator,,#76869
+192.168.1.193,,Surveillance systems,,Surveillance IP camera – C14- Reception area,,#111259
+192.168.1.194,,Surveillance systems,,Surveillance IP camera – C15- Near MD Cabin,,#111245
+192.168.1.195,,Surveillance systems,,Surveillance IP camera – C16- Near conference Cabin,,#111246
+192.168.1.196,,Surveillance systems,,Surveillance IP camera – C17- conference Cabin,,#111262
+192.168.1.197,,Surveillance systems,, Surveillance IP camera – C18- Conference Cabin outside the balcony.,,#83508
+192.168.1.198,,Surveillance systems,,Surveillance IP camera – C19- MD Cabin outside the balcony.,,#83510
+192.168.1.199,,Surveillance systems,,Surveillance IP camera – C20- Store Room,,#83515
+192.168.1.200,,Surveillance systems,,Surveillance IP camera – C21- Cafeteria,,#83518
+192.168.1.201,,Surveillance systems,,Surveillance IP camera – C22- Cafeteria area balcony,,#83509
+192.168.1.202,,Surveillance systems,,Surveillance IP camera – C23- Cafeteria area entry door.,,#112351
+192.168.1.203,,Surveillance systems,,Surveillance IP camera – C24- workstation near cafeteria door,,#83519
+192.168.1.204,,Surveillance systems,,Surveillance IP camera – C25- Workstation near entry door. ,,#83516
+192.168.1.205,,Surveillance systems,,Surveillance IP camera – C26- workstation near the workstatio Window ,,#83514
+192.168.1.206,,Surveillance systems,,Surveillance IP camera – C27- Workstation outside balcony ,,#83506
+,,,,,,
+192.168.1.211,,Access Control systems,,Access Control System – Main Entry,,#69459
+192.168.1.212,,Access Control systems,,Access Control System – HR Cabin,,#50211
+192.168.1.213,,Access Control systems,,Access Control System – CEO,,#50207
+192.168.1.214,,Access Control systems,,Access Control System – Conference Cabin,,#50209
+192.168.1.215,,Access Control systems,,Access Control System – Server Room,,#50212
+,,,,,,
+192.168.1.220,,Servers,,IBM System x3650 M4 (200-Test Server),,#49533
+192.168.1.225,,Servers,,Dell PowerEdge R730 (230- Server),,#66163
+192.168.1.230,,Servers,,Dell PowerEdge R730 (App Server),,#57009
+192.168.1.232,,Network Switches,,"
+CISCO SG500-52-Switch 1
+",,#50293
+192.168.1.231,,Network Switches,,"
+CISCO SG500-52-Switch 2
+",,#113706
+192.168.1.241,,Network Switches,,Telephone  switch ,,#49708
+192.168.1.173,,HP Printer,,HP Printer,,#81679
+192.168.1.174,,UPS,,UPS,,#50158
+192.168.1.175,,UPS,,UPS,,#112645
+,,,,,,
+192.168.1.8,,Servers,,Dell PowerEdge R730 (App Server),,#57009
+192.168.1.9,,Servers,,IBM System x3650 M4 (200-Test Server),,#49533

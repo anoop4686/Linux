@@ -1,0 +1,3 @@
+
+ Below Device out of Reach :192.168.1.173 28_Nov_2022_05:22:11_PM
+192.168.1.173,,HP Printer,,HP Printer,,#81679

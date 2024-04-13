@@ -1,0 +1,432 @@
+
+ Monday 28 November 2022 05:26:57 PM IST: PING 114.143.171.5 (114.143.171.5) 56(84) bytes of data.
+Monday 28 November 2022 05:26:57 PM IST: 64 bytes from 114.143.171.5: icmp_seq=1 ttl=254 time=2.79 ms
+Monday 28 November 2022 05:26:58 PM IST: 64 bytes from 114.143.171.5: icmp_seq=2 ttl=254 time=2.81 ms
+Monday 28 November 2022 05:26:58 PM IST: 
+Monday 28 November 2022 05:26:58 PM IST: --- 114.143.171.5 ping statistics ---
+Monday 28 November 2022 05:26:58 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+Monday 28 November 2022 05:26:58 PM IST: rtt min/avg/max/mdev = 2.792/2.798/2.805/0.006 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:26:59 PM IST: PING 114.143.171.6 (114.143.171.6) 56(84) bytes of data.
+Monday 28 November 2022 05:26:59 PM IST: 64 bytes from 114.143.171.6: icmp_seq=1 ttl=64 time=0.222 ms
+Monday 28 November 2022 05:27:00 PM IST: 64 bytes from 114.143.171.6: icmp_seq=2 ttl=64 time=0.284 ms
+Monday 28 November 2022 05:27:00 PM IST: 
+Monday 28 November 2022 05:27:00 PM IST: --- 114.143.171.6 ping statistics ---
+Monday 28 November 2022 05:27:00 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1021ms
+Monday 28 November 2022 05:27:00 PM IST: rtt min/avg/max/mdev = 0.222/0.253/0.284/0.031 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:01 PM IST: PING 192.168.1.220 (192.168.1.220) 56(84) bytes of data.
+Monday 28 November 2022 05:27:01 PM IST: 64 bytes from 192.168.1.220: icmp_seq=1 ttl=64 time=0.197 ms
+Monday 28 November 2022 05:27:02 PM IST: 64 bytes from 192.168.1.220: icmp_seq=2 ttl=64 time=0.308 ms
+Monday 28 November 2022 05:27:02 PM IST: 
+Monday 28 November 2022 05:27:02 PM IST: --- 192.168.1.220 ping statistics ---
+Monday 28 November 2022 05:27:02 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1022ms
+Monday 28 November 2022 05:27:02 PM IST: rtt min/avg/max/mdev = 0.197/0.252/0.308/0.055 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:03 PM IST: PING 192.168.1.225 (192.168.1.225) 56(84) bytes of data.
+Monday 28 November 2022 05:27:03 PM IST: 64 bytes from 192.168.1.225: icmp_seq=1 ttl=64 time=0.271 ms
+Monday 28 November 2022 05:27:04 PM IST: 64 bytes from 192.168.1.225: icmp_seq=2 ttl=64 time=0.248 ms
+Monday 28 November 2022 05:27:04 PM IST: 
+Monday 28 November 2022 05:27:04 PM IST: --- 192.168.1.225 ping statistics ---
+Monday 28 November 2022 05:27:04 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1019ms
+Monday 28 November 2022 05:27:04 PM IST: rtt min/avg/max/mdev = 0.248/0.259/0.271/0.011 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:05 PM IST: PING 192.168.1.230 (192.168.1.230) 56(84) bytes of data.
+Monday 28 November 2022 05:27:05 PM IST: 64 bytes from 192.168.1.230: icmp_seq=1 ttl=64 time=0.491 ms
+Monday 28 November 2022 05:27:06 PM IST: 64 bytes from 192.168.1.230: icmp_seq=2 ttl=64 time=0.506 ms
+Monday 28 November 2022 05:27:06 PM IST: 
+Monday 28 November 2022 05:27:06 PM IST: --- 192.168.1.230 ping statistics ---
+Monday 28 November 2022 05:27:06 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1020ms
+Monday 28 November 2022 05:27:06 PM IST: rtt min/avg/max/mdev = 0.491/0.498/0.506/0.007 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:07 PM IST: PING 192.168.1.160 (192.168.1.160) 56(84) bytes of data.
+Monday 28 November 2022 05:27:07 PM IST: 64 bytes from 192.168.1.160: icmp_seq=1 ttl=64 time=0.338 ms
+Monday 28 November 2022 05:27:08 PM IST: 64 bytes from 192.168.1.160: icmp_seq=2 ttl=64 time=0.382 ms
+Monday 28 November 2022 05:27:08 PM IST: 
+Monday 28 November 2022 05:27:08 PM IST: --- 192.168.1.160 ping statistics ---
+Monday 28 November 2022 05:27:08 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1019ms
+Monday 28 November 2022 05:27:08 PM IST: rtt min/avg/max/mdev = 0.338/0.360/0.382/0.022 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:09 PM IST: PING 192.168.1.161 (192.168.1.161) 56(84) bytes of data.
+Monday 28 November 2022 05:27:09 PM IST: 64 bytes from 192.168.1.161: icmp_seq=1 ttl=64 time=0.221 ms
+Monday 28 November 2022 05:27:10 PM IST: 64 bytes from 192.168.1.161: icmp_seq=2 ttl=64 time=0.310 ms
+Monday 28 November 2022 05:27:10 PM IST: 
+Monday 28 November 2022 05:27:10 PM IST: --- 192.168.1.161 ping statistics ---
+Monday 28 November 2022 05:27:10 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1023ms
+Monday 28 November 2022 05:27:10 PM IST: rtt min/avg/max/mdev = 0.221/0.265/0.310/0.044 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:11 PM IST: PING 192.168.1.162 (192.168.1.162) 56(84) bytes of data.
+Monday 28 November 2022 05:27:11 PM IST: 64 bytes from 192.168.1.162: icmp_seq=1 ttl=64 time=0.271 ms
+Monday 28 November 2022 05:27:12 PM IST: 64 bytes from 192.168.1.162: icmp_seq=2 ttl=64 time=0.322 ms
+Monday 28 November 2022 05:27:12 PM IST: 
+Monday 28 November 2022 05:27:12 PM IST: --- 192.168.1.162 ping statistics ---
+Monday 28 November 2022 05:27:12 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1019ms
+Monday 28 November 2022 05:27:12 PM IST: rtt min/avg/max/mdev = 0.271/0.296/0.322/0.025 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:13 PM IST: PING 192.168.1.163 (192.168.1.163) 56(84) bytes of data.
+Monday 28 November 2022 05:27:13 PM IST: 64 bytes from 192.168.1.163: icmp_seq=1 ttl=64 time=0.311 ms
+Monday 28 November 2022 05:27:14 PM IST: 64 bytes from 192.168.1.163: icmp_seq=2 ttl=64 time=0.379 ms
+Monday 28 November 2022 05:27:14 PM IST: 
+Monday 28 November 2022 05:27:14 PM IST: --- 192.168.1.163 ping statistics ---
+Monday 28 November 2022 05:27:14 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1019ms
+Monday 28 November 2022 05:27:14 PM IST: rtt min/avg/max/mdev = 0.311/0.345/0.379/0.034 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:15 PM IST: PING 192.168.1.164 (192.168.1.164) 56(84) bytes of data.
+Monday 28 November 2022 05:27:15 PM IST: 64 bytes from 192.168.1.164: icmp_seq=1 ttl=255 time=0.154 ms
+Monday 28 November 2022 05:27:16 PM IST: 64 bytes from 192.168.1.164: icmp_seq=2 ttl=255 time=0.197 ms
+Monday 28 November 2022 05:27:16 PM IST: 
+Monday 28 November 2022 05:27:16 PM IST: --- 192.168.1.164 ping statistics ---
+Monday 28 November 2022 05:27:16 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1019ms
+Monday 28 November 2022 05:27:16 PM IST: rtt min/avg/max/mdev = 0.154/0.175/0.197/0.021 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:18 PM IST: PING 192.168.1.211 (192.168.1.211) 56(84) bytes of data.
+Monday 28 November 2022 05:27:18 PM IST: 64 bytes from 192.168.1.211: icmp_seq=1 ttl=64 time=0.876 ms
+Monday 28 November 2022 05:27:19 PM IST: 64 bytes from 192.168.1.211: icmp_seq=2 ttl=64 time=0.896 ms
+Monday 28 November 2022 05:27:19 PM IST: 
+Monday 28 November 2022 05:27:19 PM IST: --- 192.168.1.211 ping statistics ---
+Monday 28 November 2022 05:27:19 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+Monday 28 November 2022 05:27:19 PM IST: rtt min/avg/max/mdev = 0.876/0.886/0.896/0.010 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:20 PM IST: PING 192.168.1.212 (192.168.1.212) 56(84) bytes of data.
+Monday 28 November 2022 05:27:20 PM IST: 64 bytes from 192.168.1.212: icmp_seq=1 ttl=64 time=0.892 ms
+Monday 28 November 2022 05:27:21 PM IST: 64 bytes from 192.168.1.212: icmp_seq=2 ttl=64 time=0.885 ms
+Monday 28 November 2022 05:27:21 PM IST: 
+Monday 28 November 2022 05:27:21 PM IST: --- 192.168.1.212 ping statistics ---
+Monday 28 November 2022 05:27:21 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+Monday 28 November 2022 05:27:21 PM IST: rtt min/avg/max/mdev = 0.885/0.888/0.892/0.003 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:22 PM IST: PING 192.168.1.213 (192.168.1.213) 56(84) bytes of data.
+Monday 28 November 2022 05:27:22 PM IST: 64 bytes from 192.168.1.213: icmp_seq=1 ttl=64 time=0.841 ms
+Monday 28 November 2022 05:27:23 PM IST: 64 bytes from 192.168.1.213: icmp_seq=2 ttl=64 time=0.889 ms
+Monday 28 November 2022 05:27:23 PM IST: 
+Monday 28 November 2022 05:27:23 PM IST: --- 192.168.1.213 ping statistics ---
+Monday 28 November 2022 05:27:23 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1020ms
+Monday 28 November 2022 05:27:23 PM IST: rtt min/avg/max/mdev = 0.841/0.865/0.889/0.024 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:24 PM IST: PING 192.168.1.214 (192.168.1.214) 56(84) bytes of data.
+Monday 28 November 2022 05:27:24 PM IST: 64 bytes from 192.168.1.214: icmp_seq=1 ttl=64 time=0.842 ms
+Monday 28 November 2022 05:27:25 PM IST: 64 bytes from 192.168.1.214: icmp_seq=2 ttl=64 time=0.909 ms
+Monday 28 November 2022 05:27:25 PM IST: 
+Monday 28 November 2022 05:27:25 PM IST: --- 192.168.1.214 ping statistics ---
+Monday 28 November 2022 05:27:25 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1018ms
+Monday 28 November 2022 05:27:25 PM IST: rtt min/avg/max/mdev = 0.842/0.875/0.909/0.033 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:26 PM IST: PING 192.168.1.215 (192.168.1.215) 56(84) bytes of data.
+Monday 28 November 2022 05:27:26 PM IST: 64 bytes from 192.168.1.215: icmp_seq=1 ttl=64 time=0.798 ms
+Monday 28 November 2022 05:27:27 PM IST: 64 bytes from 192.168.1.215: icmp_seq=2 ttl=64 time=0.887 ms
+Monday 28 November 2022 05:27:27 PM IST: 
+Monday 28 November 2022 05:27:27 PM IST: --- 192.168.1.215 ping statistics ---
+Monday 28 November 2022 05:27:27 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1020ms
+Monday 28 November 2022 05:27:27 PM IST: rtt min/avg/max/mdev = 0.798/0.842/0.887/0.044 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:28 PM IST: PING 192.168.1.180 (192.168.1.180) 56(84) bytes of data.
+Monday 28 November 2022 05:27:28 PM IST: 64 bytes from 192.168.1.180: icmp_seq=1 ttl=64 time=0.622 ms
+Monday 28 November 2022 05:27:29 PM IST: 64 bytes from 192.168.1.180: icmp_seq=2 ttl=64 time=0.328 ms
+Monday 28 November 2022 05:27:29 PM IST: 
+Monday 28 November 2022 05:27:29 PM IST: --- 192.168.1.180 ping statistics ---
+Monday 28 November 2022 05:27:29 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1019ms
+Monday 28 November 2022 05:27:29 PM IST: rtt min/avg/max/mdev = 0.328/0.475/0.622/0.147 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:30 PM IST: PING 192.168.1.181 (192.168.1.181) 56(84) bytes of data.
+Monday 28 November 2022 05:27:30 PM IST: 64 bytes from 192.168.1.181: icmp_seq=1 ttl=64 time=0.504 ms
+Monday 28 November 2022 05:27:31 PM IST: 64 bytes from 192.168.1.181: icmp_seq=2 ttl=64 time=1.11 ms
+Monday 28 November 2022 05:27:31 PM IST: 
+Monday 28 November 2022 05:27:31 PM IST: --- 192.168.1.181 ping statistics ---
+Monday 28 November 2022 05:27:31 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1018ms
+Monday 28 November 2022 05:27:31 PM IST: rtt min/avg/max/mdev = 0.504/0.805/1.106/0.301 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:32 PM IST: PING 192.168.1.182 (192.168.1.182) 56(84) bytes of data.
+Monday 28 November 2022 05:27:32 PM IST: 64 bytes from 192.168.1.182: icmp_seq=1 ttl=64 time=0.599 ms
+Monday 28 November 2022 05:27:33 PM IST: 64 bytes from 192.168.1.182: icmp_seq=2 ttl=64 time=0.822 ms
+Monday 28 November 2022 05:27:33 PM IST: 
+Monday 28 November 2022 05:27:33 PM IST: --- 192.168.1.182 ping statistics ---
+Monday 28 November 2022 05:27:33 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1019ms
+Monday 28 November 2022 05:27:33 PM IST: rtt min/avg/max/mdev = 0.599/0.710/0.822/0.111 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:34 PM IST: PING 192.168.1.183 (192.168.1.183) 56(84) bytes of data.
+Monday 28 November 2022 05:27:34 PM IST: 64 bytes from 192.168.1.183: icmp_seq=1 ttl=64 time=1.04 ms
+Monday 28 November 2022 05:27:35 PM IST: 64 bytes from 192.168.1.183: icmp_seq=2 ttl=64 time=1.23 ms
+Monday 28 November 2022 05:27:35 PM IST: 
+Monday 28 November 2022 05:27:35 PM IST: --- 192.168.1.183 ping statistics ---
+Monday 28 November 2022 05:27:35 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+Monday 28 November 2022 05:27:35 PM IST: rtt min/avg/max/mdev = 1.037/1.133/1.230/0.096 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:36 PM IST: PING 192.168.1.184 (192.168.1.184) 56(84) bytes of data.
+Monday 28 November 2022 05:27:36 PM IST: 64 bytes from 192.168.1.184: icmp_seq=1 ttl=64 time=0.783 ms
+Monday 28 November 2022 05:27:37 PM IST: 64 bytes from 192.168.1.184: icmp_seq=2 ttl=64 time=0.904 ms
+Monday 28 November 2022 05:27:37 PM IST: 
+Monday 28 November 2022 05:27:37 PM IST: --- 192.168.1.184 ping statistics ---
+Monday 28 November 2022 05:27:37 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1012ms
+Monday 28 November 2022 05:27:37 PM IST: rtt min/avg/max/mdev = 0.783/0.843/0.904/0.060 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:38 PM IST: PING 192.168.1.185 (192.168.1.185) 56(84) bytes of data.
+Monday 28 November 2022 05:27:38 PM IST: 64 bytes from 192.168.1.185: icmp_seq=1 ttl=64 time=0.906 ms
+Monday 28 November 2022 05:27:39 PM IST: 64 bytes from 192.168.1.185: icmp_seq=2 ttl=64 time=0.959 ms
+Monday 28 November 2022 05:27:39 PM IST: 
+Monday 28 November 2022 05:27:39 PM IST: --- 192.168.1.185 ping statistics ---
+Monday 28 November 2022 05:27:39 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+Monday 28 November 2022 05:27:39 PM IST: rtt min/avg/max/mdev = 0.906/0.932/0.959/0.026 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:40 PM IST: PING 192.168.1.186 (192.168.1.186) 56(84) bytes of data.
+Monday 28 November 2022 05:27:40 PM IST: 64 bytes from 192.168.1.186: icmp_seq=1 ttl=64 time=0.476 ms
+Monday 28 November 2022 05:27:41 PM IST: 64 bytes from 192.168.1.186: icmp_seq=2 ttl=64 time=0.909 ms
+Monday 28 November 2022 05:27:41 PM IST: 
+Monday 28 November 2022 05:27:41 PM IST: --- 192.168.1.186 ping statistics ---
+Monday 28 November 2022 05:27:41 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1011ms
+Monday 28 November 2022 05:27:41 PM IST: rtt min/avg/max/mdev = 0.476/0.692/0.909/0.216 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:42 PM IST: PING 192.168.1.187 (192.168.1.187) 56(84) bytes of data.
+Monday 28 November 2022 05:27:42 PM IST: 64 bytes from 192.168.1.187: icmp_seq=1 ttl=64 time=0.841 ms
+Monday 28 November 2022 05:27:43 PM IST: 64 bytes from 192.168.1.187: icmp_seq=2 ttl=64 time=0.907 ms
+Monday 28 November 2022 05:27:43 PM IST: 
+Monday 28 November 2022 05:27:43 PM IST: --- 192.168.1.187 ping statistics ---
+Monday 28 November 2022 05:27:43 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1024ms
+Monday 28 November 2022 05:27:43 PM IST: rtt min/avg/max/mdev = 0.841/0.874/0.907/0.033 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:44 PM IST: PING 192.168.1.188 (192.168.1.188) 56(84) bytes of data.
+Monday 28 November 2022 05:27:44 PM IST: 64 bytes from 192.168.1.188: icmp_seq=1 ttl=64 time=0.884 ms
+Monday 28 November 2022 05:27:45 PM IST: 64 bytes from 192.168.1.188: icmp_seq=2 ttl=64 time=0.916 ms
+Monday 28 November 2022 05:27:45 PM IST: 
+Monday 28 November 2022 05:27:45 PM IST: --- 192.168.1.188 ping statistics ---
+Monday 28 November 2022 05:27:45 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1021ms
+Monday 28 November 2022 05:27:45 PM IST: rtt min/avg/max/mdev = 0.884/0.900/0.916/0.016 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:46 PM IST: PING 192.168.1.189 (192.168.1.189) 56(84) bytes of data.
+Monday 28 November 2022 05:27:46 PM IST: 64 bytes from 192.168.1.189: icmp_seq=1 ttl=64 time=0.988 ms
+Monday 28 November 2022 05:27:47 PM IST: 64 bytes from 192.168.1.189: icmp_seq=2 ttl=64 time=0.698 ms
+Monday 28 November 2022 05:27:47 PM IST: 
+Monday 28 November 2022 05:27:47 PM IST: --- 192.168.1.189 ping statistics ---
+Monday 28 November 2022 05:27:47 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+Monday 28 November 2022 05:27:47 PM IST: rtt min/avg/max/mdev = 0.698/0.843/0.988/0.145 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:48 PM IST: PING 192.168.1.190 (192.168.1.190) 56(84) bytes of data.
+Monday 28 November 2022 05:27:48 PM IST: 64 bytes from 192.168.1.190: icmp_seq=1 ttl=64 time=0.836 ms
+Monday 28 November 2022 05:27:49 PM IST: 64 bytes from 192.168.1.190: icmp_seq=2 ttl=64 time=0.814 ms
+Monday 28 November 2022 05:27:49 PM IST: 
+Monday 28 November 2022 05:27:49 PM IST: --- 192.168.1.190 ping statistics ---
+Monday 28 November 2022 05:27:49 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1018ms
+Monday 28 November 2022 05:27:49 PM IST: rtt min/avg/max/mdev = 0.814/0.825/0.836/0.011 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:50 PM IST: PING 192.168.1.191 (192.168.1.191) 56(84) bytes of data.
+Monday 28 November 2022 05:27:50 PM IST: 64 bytes from 192.168.1.191: icmp_seq=1 ttl=64 time=0.822 ms
+Monday 28 November 2022 05:27:51 PM IST: 64 bytes from 192.168.1.191: icmp_seq=2 ttl=64 time=0.833 ms
+Monday 28 November 2022 05:27:51 PM IST: 
+Monday 28 November 2022 05:27:51 PM IST: --- 192.168.1.191 ping statistics ---
+Monday 28 November 2022 05:27:51 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1024ms
+Monday 28 November 2022 05:27:51 PM IST: rtt min/avg/max/mdev = 0.822/0.827/0.833/0.005 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:52 PM IST: PING 192.168.1.192 (192.168.1.192) 56(84) bytes of data.
+Monday 28 November 2022 05:27:52 PM IST: 64 bytes from 192.168.1.192: icmp_seq=1 ttl=64 time=1.40 ms
+Monday 28 November 2022 05:27:53 PM IST: 64 bytes from 192.168.1.192: icmp_seq=2 ttl=64 time=1.05 ms
+Monday 28 November 2022 05:27:53 PM IST: 
+Monday 28 November 2022 05:27:53 PM IST: --- 192.168.1.192 ping statistics ---
+Monday 28 November 2022 05:27:53 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+Monday 28 November 2022 05:27:53 PM IST: rtt min/avg/max/mdev = 1.047/1.225/1.404/0.178 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:54 PM IST: PING 192.168.1.193 (192.168.1.193) 56(84) bytes of data.
+Monday 28 November 2022 05:27:54 PM IST: 64 bytes from 192.168.1.193: icmp_seq=1 ttl=64 time=0.654 ms
+Monday 28 November 2022 05:27:55 PM IST: 64 bytes from 192.168.1.193: icmp_seq=2 ttl=64 time=0.490 ms
+Monday 28 November 2022 05:27:55 PM IST: 
+Monday 28 November 2022 05:27:55 PM IST: --- 192.168.1.193 ping statistics ---
+Monday 28 November 2022 05:27:55 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1018ms
+Monday 28 November 2022 05:27:55 PM IST: rtt min/avg/max/mdev = 0.490/0.572/0.654/0.082 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:56 PM IST: PING 192.168.1.194 (192.168.1.194) 56(84) bytes of data.
+Monday 28 November 2022 05:27:56 PM IST: 64 bytes from 192.168.1.194: icmp_seq=1 ttl=64 time=0.834 ms
+Monday 28 November 2022 05:27:57 PM IST: 64 bytes from 192.168.1.194: icmp_seq=2 ttl=64 time=0.975 ms
+Monday 28 November 2022 05:27:57 PM IST: 
+Monday 28 November 2022 05:27:57 PM IST: --- 192.168.1.194 ping statistics ---
+Monday 28 November 2022 05:27:57 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1017ms
+Monday 28 November 2022 05:27:57 PM IST: rtt min/avg/max/mdev = 0.834/0.904/0.975/0.070 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:27:58 PM IST: PING 192.168.1.195 (192.168.1.195) 56(84) bytes of data.
+Monday 28 November 2022 05:27:58 PM IST: 64 bytes from 192.168.1.195: icmp_seq=1 ttl=64 time=0.836 ms
+Monday 28 November 2022 05:27:59 PM IST: 64 bytes from 192.168.1.195: icmp_seq=2 ttl=64 time=0.947 ms
+Monday 28 November 2022 05:27:59 PM IST: 
+Monday 28 November 2022 05:27:59 PM IST: --- 192.168.1.195 ping statistics ---
+Monday 28 November 2022 05:27:59 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1020ms
+Monday 28 November 2022 05:27:59 PM IST: rtt min/avg/max/mdev = 0.836/0.891/0.947/0.055 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:28:00 PM IST: PING 192.168.1.196 (192.168.1.196) 56(84) bytes of data.
+Monday 28 November 2022 05:28:00 PM IST: 64 bytes from 192.168.1.196: icmp_seq=1 ttl=64 time=0.879 ms
+Monday 28 November 2022 05:28:01 PM IST: 64 bytes from 192.168.1.196: icmp_seq=2 ttl=64 time=0.885 ms
+Monday 28 November 2022 05:28:01 PM IST: 
+Monday 28 November 2022 05:28:01 PM IST: --- 192.168.1.196 ping statistics ---
+Monday 28 November 2022 05:28:01 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+Monday 28 November 2022 05:28:01 PM IST: rtt min/avg/max/mdev = 0.879/0.882/0.885/0.003 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:28:02 PM IST: PING 192.168.1.197 (192.168.1.197) 56(84) bytes of data.
+Monday 28 November 2022 05:28:02 PM IST: 64 bytes from 192.168.1.197: icmp_seq=1 ttl=64 time=0.508 ms
+Monday 28 November 2022 05:28:04 PM IST: 64 bytes from 192.168.1.197: icmp_seq=2 ttl=64 time=0.547 ms
+Monday 28 November 2022 05:28:04 PM IST: 
+Monday 28 November 2022 05:28:04 PM IST: --- 192.168.1.197 ping statistics ---
+Monday 28 November 2022 05:28:04 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1029ms
+Monday 28 November 2022 05:28:04 PM IST: rtt min/avg/max/mdev = 0.508/0.527/0.547/0.019 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:28:05 PM IST: PING 192.168.1.198 (192.168.1.198) 56(84) bytes of data.
+Monday 28 November 2022 05:28:05 PM IST: 64 bytes from 192.168.1.198: icmp_seq=1 ttl=64 time=0.664 ms
+Monday 28 November 2022 05:28:06 PM IST: 64 bytes from 192.168.1.198: icmp_seq=2 ttl=64 time=0.686 ms
+Monday 28 November 2022 05:28:06 PM IST: 
+Monday 28 November 2022 05:28:06 PM IST: --- 192.168.1.198 ping statistics ---
+Monday 28 November 2022 05:28:06 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1018ms
+Monday 28 November 2022 05:28:06 PM IST: rtt min/avg/max/mdev = 0.664/0.675/0.686/0.011 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:28:07 PM IST: PING 192.168.1.199 (192.168.1.199) 56(84) bytes of data.
+Monday 28 November 2022 05:28:07 PM IST: 64 bytes from 192.168.1.199: icmp_seq=1 ttl=64 time=0.642 ms
+Monday 28 November 2022 05:28:08 PM IST: 64 bytes from 192.168.1.199: icmp_seq=2 ttl=64 time=0.928 ms
+Monday 28 November 2022 05:28:08 PM IST: 
+Monday 28 November 2022 05:28:08 PM IST: --- 192.168.1.199 ping statistics ---
+Monday 28 November 2022 05:28:08 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1021ms
+Monday 28 November 2022 05:28:08 PM IST: rtt min/avg/max/mdev = 0.642/0.785/0.928/0.143 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:28:09 PM IST: PING 192.168.1.200 (192.168.1.200) 56(84) bytes of data.
+Monday 28 November 2022 05:28:09 PM IST: 64 bytes from 192.168.1.200: icmp_seq=1 ttl=64 time=0.357 ms
+Monday 28 November 2022 05:28:10 PM IST: 64 bytes from 192.168.1.200: icmp_seq=2 ttl=64 time=0.985 ms
+Monday 28 November 2022 05:28:10 PM IST: 
+Monday 28 November 2022 05:28:10 PM IST: --- 192.168.1.200 ping statistics ---
+Monday 28 November 2022 05:28:10 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1024ms
+Monday 28 November 2022 05:28:10 PM IST: rtt min/avg/max/mdev = 0.357/0.671/0.985/0.314 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:28:11 PM IST: PING 192.168.1.201 (192.168.1.201) 56(84) bytes of data.
+Monday 28 November 2022 05:28:11 PM IST: 64 bytes from 192.168.1.201: icmp_seq=1 ttl=64 time=0.516 ms
+Monday 28 November 2022 05:28:12 PM IST: 64 bytes from 192.168.1.201: icmp_seq=2 ttl=64 time=0.573 ms
+Monday 28 November 2022 05:28:12 PM IST: 
+Monday 28 November 2022 05:28:12 PM IST: --- 192.168.1.201 ping statistics ---
+Monday 28 November 2022 05:28:12 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1019ms
+Monday 28 November 2022 05:28:12 PM IST: rtt min/avg/max/mdev = 0.516/0.544/0.573/0.028 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:28:13 PM IST: PING 192.168.1.202 (192.168.1.202) 56(84) bytes of data.
+Monday 28 November 2022 05:28:13 PM IST: 64 bytes from 192.168.1.202: icmp_seq=1 ttl=64 time=0.826 ms
+Monday 28 November 2022 05:28:14 PM IST: 64 bytes from 192.168.1.202: icmp_seq=2 ttl=64 time=0.871 ms
+Monday 28 November 2022 05:28:14 PM IST: 
+Monday 28 November 2022 05:28:14 PM IST: --- 192.168.1.202 ping statistics ---
+Monday 28 November 2022 05:28:14 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1025ms
+Monday 28 November 2022 05:28:14 PM IST: rtt min/avg/max/mdev = 0.826/0.848/0.871/0.022 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:28:15 PM IST: PING 192.168.1.203 (192.168.1.203) 56(84) bytes of data.
+Monday 28 November 2022 05:28:15 PM IST: 64 bytes from 192.168.1.203: icmp_seq=1 ttl=64 time=0.930 ms
+Monday 28 November 2022 05:28:16 PM IST: 64 bytes from 192.168.1.203: icmp_seq=2 ttl=64 time=0.893 ms
+Monday 28 November 2022 05:28:16 PM IST: 
+Monday 28 November 2022 05:28:16 PM IST: --- 192.168.1.203 ping statistics ---
+Monday 28 November 2022 05:28:16 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+Monday 28 November 2022 05:28:16 PM IST: rtt min/avg/max/mdev = 0.893/0.911/0.930/0.018 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:28:17 PM IST: PING 192.168.1.204 (192.168.1.204) 56(84) bytes of data.
+Monday 28 November 2022 05:28:17 PM IST: 64 bytes from 192.168.1.204: icmp_seq=1 ttl=64 time=0.901 ms
+Monday 28 November 2022 05:28:18 PM IST: 64 bytes from 192.168.1.204: icmp_seq=2 ttl=64 time=0.980 ms
+Monday 28 November 2022 05:28:18 PM IST: 
+Monday 28 November 2022 05:28:18 PM IST: --- 192.168.1.204 ping statistics ---
+Monday 28 November 2022 05:28:18 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+Monday 28 November 2022 05:28:18 PM IST: rtt min/avg/max/mdev = 0.901/0.940/0.980/0.039 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:28:19 PM IST: PING 192.168.1.205 (192.168.1.205) 56(84) bytes of data.
+Monday 28 November 2022 05:28:19 PM IST: 64 bytes from 192.168.1.205: icmp_seq=1 ttl=64 time=0.908 ms
+Monday 28 November 2022 05:28:20 PM IST: 64 bytes from 192.168.1.205: icmp_seq=2 ttl=64 time=0.909 ms
+Monday 28 November 2022 05:28:20 PM IST: 
+Monday 28 November 2022 05:28:20 PM IST: --- 192.168.1.205 ping statistics ---
+Monday 28 November 2022 05:28:20 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+Monday 28 November 2022 05:28:20 PM IST: rtt min/avg/max/mdev = 0.908/0.908/0.909/0.000 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:28:21 PM IST: PING 192.168.1.206 (192.168.1.206) 56(84) bytes of data.
+Monday 28 November 2022 05:28:21 PM IST: 64 bytes from 192.168.1.206: icmp_seq=1 ttl=64 time=0.915 ms
+Monday 28 November 2022 05:28:22 PM IST: 64 bytes from 192.168.1.206: icmp_seq=2 ttl=64 time=0.777 ms
+Monday 28 November 2022 05:28:22 PM IST: 
+Monday 28 November 2022 05:28:22 PM IST: --- 192.168.1.206 ping statistics ---
+Monday 28 November 2022 05:28:22 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+Monday 28 November 2022 05:28:22 PM IST: rtt min/avg/max/mdev = 0.777/0.846/0.915/0.069 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:28:23 PM IST: PING 192.168.1.173 (192.168.1.173) 56(84) bytes of data.
+Monday 28 November 2022 05:28:23 PM IST: 64 bytes from 192.168.1.173: icmp_seq=1 ttl=255 time=1.27 ms
+Monday 28 November 2022 05:28:24 PM IST: 64 bytes from 192.168.1.173: icmp_seq=2 ttl=255 time=10.8 ms
+Monday 28 November 2022 05:28:24 PM IST: 
+Monday 28 November 2022 05:28:24 PM IST: --- 192.168.1.173 ping statistics ---
+Monday 28 November 2022 05:28:24 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+Monday 28 November 2022 05:28:24 PM IST: rtt min/avg/max/mdev = 1.270/6.019/10.768/4.749 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:28:25 PM IST: PING 192.168.1.174 (192.168.1.174) 56(84) bytes of data.
+Monday 28 November 2022 05:28:25 PM IST: 64 bytes from 192.168.1.174: icmp_seq=1 ttl=255 time=0.790 ms
+Monday 28 November 2022 05:28:26 PM IST: 64 bytes from 192.168.1.174: icmp_seq=2 ttl=255 time=0.849 ms
+Monday 28 November 2022 05:28:26 PM IST: 
+Monday 28 November 2022 05:28:26 PM IST: --- 192.168.1.174 ping statistics ---
+Monday 28 November 2022 05:28:26 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1016ms
+Monday 28 November 2022 05:28:26 PM IST: rtt min/avg/max/mdev = 0.790/0.819/0.849/0.029 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:28:27 PM IST: PING 192.168.1.175 (192.168.1.175) 56(84) bytes of data.
+Monday 28 November 2022 05:28:27 PM IST: 64 bytes from 192.168.1.175: icmp_seq=1 ttl=255 time=0.293 ms
+Monday 28 November 2022 05:28:28 PM IST: 64 bytes from 192.168.1.175: icmp_seq=2 ttl=255 time=0.515 ms
+Monday 28 November 2022 05:28:28 PM IST: 
+Monday 28 November 2022 05:28:28 PM IST: --- 192.168.1.175 ping statistics ---
+Monday 28 November 2022 05:28:28 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1018ms
+Monday 28 November 2022 05:28:28 PM IST: rtt min/avg/max/mdev = 0.293/0.404/0.515/0.111 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:28:29 PM IST: PING 192.168.1.231 (192.168.1.231) 56(84) bytes of data.
+Monday 28 November 2022 05:28:29 PM IST: 64 bytes from 192.168.1.231: icmp_seq=1 ttl=64 time=3.46 ms
+Monday 28 November 2022 05:28:30 PM IST: 64 bytes from 192.168.1.231: icmp_seq=2 ttl=64 time=1.43 ms
+Monday 28 November 2022 05:28:30 PM IST: 
+Monday 28 November 2022 05:28:30 PM IST: --- 192.168.1.231 ping statistics ---
+Monday 28 November 2022 05:28:30 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+Monday 28 November 2022 05:28:30 PM IST: rtt min/avg/max/mdev = 1.425/2.444/3.464/1.019 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:28:31 PM IST: PING 192.168.1.232 (192.168.1.232) 56(84) bytes of data.
+Monday 28 November 2022 05:28:31 PM IST: 64 bytes from 192.168.1.232: icmp_seq=1 ttl=64 time=1.13 ms
+Monday 28 November 2022 05:28:32 PM IST: 64 bytes from 192.168.1.232: icmp_seq=2 ttl=64 time=1.14 ms
+Monday 28 November 2022 05:28:32 PM IST: 
+Monday 28 November 2022 05:28:32 PM IST: --- 192.168.1.232 ping statistics ---
+Monday 28 November 2022 05:28:32 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+Monday 28 November 2022 05:28:32 PM IST: rtt min/avg/max/mdev = 1.130/1.133/1.136/0.003 ms
+=========================================================================================================
+
+ Monday 28 November 2022 05:28:33 PM IST: PING 192.168.1.241 (192.168.1.241) 56(84) bytes of data.
+Monday 28 November 2022 05:28:33 PM IST: 64 bytes from 192.168.1.241: icmp_seq=1 ttl=64 time=0.422 ms
+Monday 28 November 2022 05:28:34 PM IST: 64 bytes from 192.168.1.241: icmp_seq=2 ttl=64 time=0.540 ms
+Monday 28 November 2022 05:28:34 PM IST: 
+Monday 28 November 2022 05:28:34 PM IST: --- 192.168.1.241 ping statistics ---
+Monday 28 November 2022 05:28:34 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1020ms
+Monday 28 November 2022 05:28:34 PM IST: rtt min/avg/max/mdev = 0.422/0.481/0.540/0.059 ms
+=========================================================================================================

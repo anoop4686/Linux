@@ -1,0 +1,31 @@
+1. Block All the traffic of enp2s0 interface.
+iptables -I INPUT -i enp2s0 -j REJECT
+
+2. Allow icmp,80 and 443 ports traffic of enp2s0 interface.
+iptables -I INPUT -i enp2s0 -p icmp  -j ACCEPT
+iptables -I INPUT -i enp2s0 -p tcp -m multiport --dports 80,443 -j ACCEPT
+
+3. Implement domain base restriction of enp2s0 interface.
+iptables -I INPUT -i enp2s0 -p tcp -m string --string git.localhost.lan --algo kmp -j DROP
+
+4. Allow specific ip to access domain.
+iptables -I INPUT -i enp2s0 -p tcp -s 192.168.2.78   -m string --string git.localhost.lan --algo kmp -j ACCEPT
+
+5. Allow full subnetwork to access domain.
+iptables -I INPUT -i enp2s0  -p tcp -s 192.168.2.0/24 -m string --string git.localhost.lan --algo kmp -j ACCEPT
+
+
+
+
+
+
+
+
+
+iptables -I INPUT -i enp2s0 -j REJECT
+iptables -I INPUT -i enp2s0 -p icmp  -j ACCEPT
+iptables -I INPUT -i enp2s0 -p tcp -m multiport --dports 80,443 -j ACCEPT
+
+
+iptables -I INPUT -i enp2s0  -p tcp --destination-port 8080 -m iprange  --src-range 192.168.2.1-192.168.2.254 -j ACCEPT  
+

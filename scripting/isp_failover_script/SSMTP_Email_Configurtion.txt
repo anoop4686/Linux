@@ -1,0 +1,61 @@
+
+
+**********************************SSMTP Mail Configuration*******************************************
+
+1. Install SSMTP Package on Ubuntu server.  
+
+$sudo apt-get install ssmtp  
+$sudo apt-get install mutt  
+
+
+
+2. After install ssmtp successfully package. Open configuration file.
+
+$sudo vi /etc/ssmtp/ssmtp.conf
+
+3. Enter the following configuration file into ssmtp.conf
+
+#
+# Config file for sSMTP sendmail
+#
+# The person who gets all mail for userids < 1000
+# Make this empty to disable rewriting.
+root=network@allerin.com:smtp.gmail.com:587
+
+# The place where the mail goes. The actual machine name is required no 
+# MX records are consulted. Commonly mailhosts are named mail.domain.com
+mailhub=smtp.gmail.com:587
+Authpass=************* (Enter Password)
+Authuser=network@allerin.com
+UseTLS=YES
+UseSTARTTLS=Yes
+
+# Where will the mail seem to come from?
+rewriteDomain=gmail.com
+
+# The full hostname
+hostname=administrator
+
+TLS_CA_File=/etc/ssl/certs/ca-certificates.crt
+
+# Are users allowed to set their own From: address?
+# YES - Allow the user to specify their own From: address
+# NO - Use the system generated From: address
+
+FromLineOverride=YES
+
+
+4.Now open the ssmtp revaliases file  with the following code.
+
+$sudo vi /etc/ssmtp/revaliases
+
+Enter the following into the file.
+Server:Network@allerin.com:smtp.gmail.com:587
+
+5. Restart the service and Enter the following for send mail.
+
+6. mutt  -s "Test mail" anoop.maurya@allerin.com < mail.txt
+
+
+
+

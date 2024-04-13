@@ -1,0 +1,27 @@
+
+sudo iptables -t nat -A POSTROUTING -o eno3 -j MASQUERADE
+
+Input Block:
+
+iptables -I INPUT  -s 192.168.2.0/24 -j DROP
+
+iptables -I INPUT  -m mac --mac-source  38:b1:db:d7:d7:8f  -j  ACCEPT  
+iptables -I INPUT -m mac --mac-source  d0:67:e5:2b:e0:b1  -j  ACCEPT  
+
+Forwarding Block:
+iptables -P FORWARD DROP 
+
+iptables -I FORWARD -m mac --mac-source 38:b1:db:d7:d7:8f -j ACCEPT
+iptables -I FORWARD -m mac --mac-source d0:67:e5:2b:e0:b1 -j ACCEPT
+
+
+iptables-save  > /etc/iptables/rules.v4
+iptables-restore  < /etc/iptables/rules.v4
+
+sudo netplan apply
+
+sudo iptables -F     
+
+
+sudo iptables -L    
+sudo iptables -S   

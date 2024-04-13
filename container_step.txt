@@ -1,0 +1,34 @@
+1. mkdir -p /data/input
+2. mkdir -p /data/output
+3. Run the Cointainer
+	podman container run -d --name monitor -v /data/input:/data/input:Z -v /data/output:/data/output:Z monitor
+	Where
+	monitor : Name of conatiner image
+4. Check the container 
+	podman ps
+CONTAINER ID  IMAGE                     COMMAND               CREATED         STATUS         PORTS       NAMES
+e5080e16be79  localhost/monitor:latest  python3 pdf_conve...  19 seconds ago  Up 19 seconds              monitor
+
+5. If you want to go inside container. Use below command. 
+	podman exec -it monitor /bin/bash
+
+6. Create user in systemd file for managening the container
+	mkdir -p /home/anoop/.config/systemd/user
+	cd /home/anoop/.config/systemd/user
+
+7. Generate the podman configuration file
+	podman generate systemd --name monitor --new --files
+	Where : 
+	Systemd : Is a systemd file to manager the services
+	name : name of container
+	new  : File type
+8. Reload the demon
+	systemctl --user daemon-reload
+
+9. Start and Enable conatiner by systemctl command
+	systemctl --user start container-monitor.service
+	systemctl --user enable container-monitor.service
+	systemctl --user restart container-monitor.service
+
+10. Enable the server to start the conatiner after reboot
+	loginctl enable-linger

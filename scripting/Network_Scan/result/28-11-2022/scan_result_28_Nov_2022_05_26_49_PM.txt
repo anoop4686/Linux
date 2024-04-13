@@ -1,0 +1,9 @@
+
+ Monday 28 November 2022 05:26:50 PM IST: PING 114.143.171.5 (114.143.171.5) 56(84) bytes of data.
+Monday 28 November 2022 05:26:50 PM IST: 64 bytes from 114.143.171.5: icmp_seq=1 ttl=254 time=2.76 ms
+Monday 28 November 2022 05:26:51 PM IST: 64 bytes from 114.143.171.5: icmp_seq=2 ttl=254 time=2.77 ms
+Monday 28 November 2022 05:26:51 PM IST: 
+Monday 28 November 2022 05:26:51 PM IST: --- 114.143.171.5 ping statistics ---
+Monday 28 November 2022 05:26:51 PM IST: 2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+Monday 28 November 2022 05:26:51 PM IST: rtt min/avg/max/mdev = 2.759/2.763/2.768/0.004 ms
+=========================================================================================================
